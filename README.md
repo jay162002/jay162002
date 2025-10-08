@@ -1,4 +1,5 @@
-## Hi there 👋
+<!-- Banner / headline -->
+<h1 align="center">Hello I'm Samarth Motka</h1>
 
 <!--
 **jay162002/jay162002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
