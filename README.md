@@ -8,24 +8,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1 align="center">Hello I'm Jaydeep Darji</h1>
-
-<!-- Right-side illustration (replace the src with any image/GIF you like) -->
-<img align="right" src="9.png" width="290" alt="developer at laptop">
-
 <!-- About Me -->
 ### 👋 About Me
 - 🔭 I’m currently working on a project related to **Frontend development** and **Machine Learning**  
