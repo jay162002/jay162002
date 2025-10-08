@@ -12,7 +12,7 @@
   - 🏎️ I’m an **automobile and motorsport** enthusiast  
 
   </div>
-  <img src="https://raw.githubusercontent.com/alejorodriguezm/readme-illustrations/main/dev-illustration-laptop.png" width="260" alt="Developer at laptop" />
+  <img src="9.png" width="260" alt="Developer at laptop" />
 </div>
 
 
