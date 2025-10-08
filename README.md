@@ -2,9 +2,9 @@
 <h1 align="center">Hello I'm Jaydeep Darji</h1>
 
 <!-- Flex layout for About Me + image -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<p align="center">
   <img src="9.png" width="260" alt="Developer at laptop" />
-</div>
+</p>
 
 
 
