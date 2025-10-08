@@ -3,15 +3,6 @@
 
 <!-- Flex layout for About Me + image -->
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    
-  ### 👋 About Me
-  - 🔭 I’m currently working on a project related to **Frontend development** and **Machine Learning**
-  - 🤝 I’m looking to collaborate on **Frontend projects**
-  - 🌱 I’m currently learning **Full-Stack**
-  - 🏎️ I’m an **automobile and motorsport** enthusiast  
-
-  </div>
   <img src="9.png" width="260" alt="Developer at laptop" />
 </div>
 
