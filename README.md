@@ -1,3 +1,34 @@
+<!-- Title -->
+<h1 align="center">Hello I'm Jaydeep Darji</h1>
+
+<!-- Flex layout for About Me + image -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    
+  ### 👋 About Me
+  - 🔭 I’m currently working on a project related to **Frontend development** and **Machine Learning**
+  - 🤝 I’m looking to collaborate on **Frontend projects**
+  - 🌱 I’m currently learning **Full-Stack**
+  - 🏎️ I’m an **automobile and motorsport** enthusiast  
+
+  </div>
+  <img src="https://raw.githubusercontent.com/alejorodriguezm/readme-illustrations/main/dev-illustration-laptop.png" width="260" alt="Developer at laptop" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1 align="center">Hello I'm Jaydeep Darji</h1>
 
