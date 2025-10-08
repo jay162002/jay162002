@@ -9,10 +9,10 @@
 
 
 ### 💫 About Me
-- I’m currently learning **Machine Learning** and working on **Logic Building**
-- I believe great design and great logic belong together
+- I’m currently learning **Machine Learning** and working on **Logic Building**.
+- I believe great design and great logic belong together.
 - Open to collaborating on **innovative web or AI-based projects**.
-- I love solving problems through code and continuous learning.
+- I love solving problems through logics, designing and code.
 
 ---
 
