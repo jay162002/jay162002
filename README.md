@@ -40,6 +40,11 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge&logo=pytorch&logoColor=white)
+![Convolutional Neural Networks](https://img.shields.io/badge/CNNs-009688?style=for-the-badge&logo=keras&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-4A90E2?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Research](https://img.shields.io/badge/Research-212121?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 
