@@ -9,7 +9,9 @@
 
 
 ### 💫 About Me
-- I’m currently learning **Machine Learning** and working on **Logic Building**.
+- I’m **Developer** focused on building scalable and production-ready web applications.
+- I work across modern frontend development, backend architectures, AI Agents, APIs, databases, and cloud-based services.
+- Currently, I’m expanding my expertise in **Machine Learning**, **AI integrations**, and **advanced system design** while continuously improving **problem-solving** and **logic-building skills**.
 - I believe great design and great logic belong together.
 - Open to collaborating on **innovative web or AI-based projects**.
 - I love solving problems through logics, designing and code.
@@ -17,6 +19,7 @@
 ---
 
 ### 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-black?style=for-the-badge&logo=vercel&logoColor=white)](https://jaydeep-darji.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaydeep-darji-5a76bb236/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaydeepdarji1602@gmail.com)
 
@@ -25,12 +28,19 @@
 ### 💻 Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Basic Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![OOPS](https://img.shields.io/badge/OOPS-00897B?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-4DB33D?style=for-the-badge)
